@@ -1,0 +1,18 @@
+body{
+	background-color: #DEA194 ; 
+}
+h1{
+	font-size: 50px;
+	color:black;
+}
+p{
+	font-size: 20px;
+	color: hotpink;
+}
+img{
+	font-size: 90px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
